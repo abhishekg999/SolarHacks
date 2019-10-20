@@ -9,6 +9,7 @@
 
 <body>
 <div class="container">
+	<br>
 	<div class="jumbotron">
 		<h1 style="text-align: center;"> Hacker Quest</h1> 
 	</div>
